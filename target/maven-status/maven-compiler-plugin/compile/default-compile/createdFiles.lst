@@ -1,5 +1,4 @@
 com\matthew\project\api_gateway\SecurityConfig.class
 com\matthew\project\api_gateway\jwt\filter\JwtAuthFilter.class
-com\matthew\project\api_gateway\TestController.class
 com\matthew\project\api_gateway\ApiGatewayApplication.class
 com\matthew\project\api_gateway\jwt\service\JwtService.class
